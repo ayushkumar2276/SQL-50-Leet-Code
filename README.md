@@ -6,6 +6,7 @@ This repository is a comprehensive resource for tackling the top SQL problems on
 
 
 Acknowledgements
+
 A huge thank you to LeetCode for creating the SQL 50 Challenge!
 This repository is made for educational purposes and is not officially associated with LeetCode.
 
